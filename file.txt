@@ -3,4 +3,5 @@ Hello World,
 
 This is a practice file for git command. 
 
+directly commiting the file 
 
