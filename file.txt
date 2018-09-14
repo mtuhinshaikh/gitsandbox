@@ -3,5 +3,7 @@ Hello World,
 
 This is a practice file for git command. 
 
-directly commiting the file 
+directly commiting the file
+
+this is a new line to see the difference in git 
 
