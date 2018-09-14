@@ -1,0 +1,5 @@
+This a file that i will rename using git command. 
+
+To rename a file you have to 
+
+git mv oldname newname 
