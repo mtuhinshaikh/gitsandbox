@@ -1,0 +1,8 @@
+Other developer has changed on this line and I am also changing this file. but not ready to commit and merge now. 
+few 
+more line
+for this 
+tutorials
+
+I have fetched the file from origin and still working on my feature. 
+Now I am also making some more chages and ready to commit and merge 
