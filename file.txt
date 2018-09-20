@@ -6,7 +6,15 @@ This is a practice file for git command.
 directly commiting the file
 
 this is a new line to see the difference in git 
+
+adding lines to make conflict
+more lines for conlict
+afaaf
+afafa
+adfasfa
+afs
+
 hello git
 new line
 more new line 
-more lines 
+more lines
